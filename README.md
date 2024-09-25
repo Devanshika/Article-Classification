@@ -1,0 +1,3 @@
+This is data analysis project that targets Classification of data. Every step of data analysis like data cleaning, data processing, feature extraction, training model, evaluating results have been explored in this project.
+The objecvtive is to analyze a set of technical articles to find keywords that describ4 the article and implements both a supervised as well as unsupervised methodology to correctly group similar articles. 
+K means and Logistic Regression models were used. Logical regression performed better and we were able to create the following labels for teh document classifciation: Software Development, Programming, Companies, Machine Learning and Information Technology. 
